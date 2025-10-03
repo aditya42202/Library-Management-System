@@ -1,2 +1,2 @@
 # Library-Management-System
-Python, Database(in excel)
+Python, Database(in CSV file)
